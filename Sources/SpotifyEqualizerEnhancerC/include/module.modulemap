@@ -1,0 +1,4 @@
+module SpotifyEqualizerEnhancerC {
+    umbrella "."
+    export *
+}

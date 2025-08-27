@@ -1,0 +1,9 @@
+Package: com.level3tjg.spotifyequalizerenhancer
+Name: SpotifyEqualizerEnhancer
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Make Spotify's built-in equalizer useful
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 14.0)
